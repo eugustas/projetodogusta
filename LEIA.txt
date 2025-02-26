@@ -1,0 +1,15 @@
+LICENÇA DE USO PARA REPOSITÓRIO GITHUB
+
+Ao acessar ou utilizar este repositório, você concorda com os seguintes termos:
+
+Proibição de Edição: A edição, modificação ou alteração de qualquer código ou conteúdo deste repositório é estritamente proibida, a menos que você tenha adquirido uma licença ou permissão explícita para tal, diretamente do titular dos direitos autorais.
+
+Proibição de Venda: A revenda ou comercialização de qualquer parte deste repositório, seja o código-fonte ou os recursos nele contidos, sem a devida compra do produto ou licença, é expressamente proibida. A venda não autorizada será tratada como infração de propriedade intelectual e poderá resultar em sanções legais, incluindo ações civis e criminais.
+
+Permissão de Uso Comercial: A autorização para edição, modificação ou revenda do conteúdo deste repositório será concedida exclusivamente a usuários que adquirirem uma licença paga diretamente do titular dos direitos autorais.
+
+Consequências Legais: Qualquer violação dos termos desta licença será tratada como infração de direitos autorais e propriedade intelectual, com as devidas consequências legais, conforme as leis aplicáveis.
+
+Uso Limitado: O uso deste repositório é limitado ao uso pessoal ou para fins educacionais, sem qualquer modificação ou comercialização do código ou recursos. Qualquer outro uso requer autorização explícita do titular dos direitos.
+
+Licença Comercial: Para adquirir permissão para editar, modificar ou revender qualquer parte deste repositório, você deverá entrar em contato diretamente com o titular dos direitos autorais para negociar uma licença comercial adequada.
